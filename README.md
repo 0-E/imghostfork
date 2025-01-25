@@ -8,6 +8,7 @@ This is how it looks like:
 
 ![Screenshot of the uploaded image page, displaying the imghost title and a the uploaded image](show.png)
 
+https://github.com/0-E/imghostfork/blob/main/collab.png
 
 ## Routes
 
